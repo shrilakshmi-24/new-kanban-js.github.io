@@ -1,4 +1,4 @@
-import KanbanAPI from "../api/KanbanAPI.js";
+import KanbanAPI from "../api/kanbanAPI.js";
 import DropZone from "./DropZone.js";
 import Item from "./Item.js";
 
